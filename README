@@ -5,7 +5,7 @@ Rainbow colors for parentheses, based on rainbow_parenthsis.vim of which there a
 This version uses significantly less code than the other older ones (~80% less) and has new options to make it easier to change the colors and the parentheses depth.
 
 Why make a new version?
-Since I wanted to try this feature (rainbow highlighting of parentheses, sounded neat) but looking into the existing code I found that it's very inefficient. So I did a quick rewrite: shortened it, combined what I liked in each version, and added a few things. This was the result.
+Since I wanted to try this feature (rainbow highlighting of parentheses sounded neat), but looking into the existing code I found that it was very inefficient, so I did a quick rewrite: shortened it, combined what I liked in each version, and added a few things. This was the result.
 
 Usage:
 Run :RainbowParenthesesToggle to toggle it on/off.
