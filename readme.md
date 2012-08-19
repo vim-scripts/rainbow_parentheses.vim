@@ -27,6 +27,10 @@ let g:rbpt_colorpairs = [
 let g:rbpt_max = 16
 ```
 
+```vim
+let g:rbpt_loadcmd_toggle = 0
+```
+
 ### Commands:
 
 ```vim
@@ -44,5 +48,4 @@ au VimEnter * RainbowParenthesesToggle
 au Syntax * RainbowParenthesesLoadRound
 au Syntax * RainbowParenthesesLoadSquare
 au Syntax * RainbowParenthesesLoadBraces
-au Syntax * RainbowParenthesesLoadChevrons
 ```
